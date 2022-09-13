@@ -1,12 +1,6 @@
 
 
-
-a. Each problem carries ten marks.
-b. Implement these problems on two pages, a Login page and a Home page
-with routes "/login" and "/home".
-c. Below are five problems that you need to solve:
-
-1. On the login page, create a login form and ask for Name, Email, and
+1. On the login page,  a login form and ask for Name, Email, and
 Mobile Number. After successful submission, log in. Save that provided
 info into a database along with the time of login.
 
